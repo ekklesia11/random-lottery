@@ -33,3 +33,7 @@ function Lotto() {
   console.log(newNum);
   
 }
+
+function reset() {
+  document.location.reload(false);
+}

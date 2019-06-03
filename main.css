@@ -28,3 +28,10 @@ li:first-child {
 #draw:hover {
     border-color: red;
 }
+#resetBtn {
+    font-size: 0.7em;
+    border: 4px double #ccc;
+}
+#resetBtn:hover {
+    border-color: #000;
+}
